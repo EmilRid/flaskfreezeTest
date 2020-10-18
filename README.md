@@ -1,0 +1,1 @@
+![Python application](https://github.com/EmilRid/flaskfreezeTest/workflows/Python%20application/badge.svg)
